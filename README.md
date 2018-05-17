@@ -1,4 +1,6 @@
+
 ## Products
+
 
 item | weight | cost | shop
 ------------ | ------------- | ------------- | -------------
@@ -74,4 +76,36 @@ chickpeas | 75g  | 15000
 roasted red peppers | 45g | 3000
 cherry tomatoes | 45g | 1500
 yogurt dressing | 40g | 7500
+
+
+
+### Chicken cezar  
+
+#### small - 68750
+item | weight | cost (27500)
+------------ | ------------- | -------------
+lettuce | 120g | 5000
+chicken | 80g  | 6000
+bread | 15g | 1500 
+parmesan | 8g  | 10000
+cezar dressing | 25g | 5000
+
+#### big - 105000
+item | weight | cost (42000)
+------------ | ------------- | -------------
+lettuce | 200g | 9000
+chicken | 120g  | 7500
+bread | 25g | 2500 
+parmesan | 12g  | 15000
+cezar dressing | 40g | 9000
+
+### Beat it! 
+
+#### small - 68750
+item | weight | cost (27500)
+------------ | ------------- | -------------
+Baby spinach | | 
+beat | | 
+feta | | 
+walnuts dressed with honey mustard | | 
 
