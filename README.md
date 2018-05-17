@@ -23,7 +23,7 @@ Cucumber | 1kg |  | koto woman
 Egg | 1pc  | 2500 | metro 
 Extra Virgin olive | 1L | 183000 | koto woman                                                           
 Feta | 1kg | 675000 | metro
-grilled Red peppers | 1kg | 40000 | koto woman
+grilled Red peppers | 1kg | 40000 (60000 grilled ??) | koto woman
 Kasha  |  |  | 
 Kimchi | 1kg | 100000 | metro
 Lentils | 1kg | 135000 | metro
@@ -34,7 +34,7 @@ Olives | 1kg | 185000 | metro
 Onion | 1kg | 30000 | koto woman
 Papaya | 1kg | 10000 | koto woman
 Parmesan | 1kg | 1200000 | metro
-Pasta  | 1kg (2.4kg cooked) | 90000 | metro
+Pasta  | 1kg (2.4kg cooked) | 90000 (37500 per kg) | metro
 Peanuts |  |  | 
 Pickles | 1kg | 55000 | metro
 Raisins | 1kg | 900000 | nuts people
@@ -45,6 +45,7 @@ Sunflower |  |  |
 Tofu |  |  | 
 Vegan cheese |  |  | 
 Walnuts |  |  | 
+Watercress | | | |
 White beans | 1kg | 135000 | metro
 
 
@@ -52,46 +53,25 @@ White beans | 1kg | 135000 | metro
 
 ### Kim Chi 
 
-#### small - ??
-item | weight | cost (??)
+#### small - 74000
+item | weight | cost (29500)
 ------------ | ------------- | -------------
-penne | 60g | ?
-watercress | ?  | ?
-kimchi | 60g | 5K 
-chickpeas | ?  | ?
-roasted red peppers | ?  | ?   
-cherry tomatoes | ? | ? 
-yogurt dressing | 25g | 5K
+penne | 200g | 7500
+watercress | 25g  | 2000 ??
+kimchi | 60g | 6000 
+chickpeas | 50g  | 7000
+roasted red peppers | 30g | 2000
+cherry tomatoes | 30g | 1000
+yogurt dressing | 25g | 5000
 
-#### big - ??
-item | weight | cost (??)
+#### big - 125000
+item | weight | cost (50000)
 ------------ | ------------- | -------------
-penne | ? | ?
-watercress | ?  | ?
-kimchi | 60g | 5K 
-chickpeas | ?  | ?
-roasted red peppers | ?  | ?   
-cherry tomatoes | ? | ? 
-yogurt dressing | 25g | 5K
+penne | 300g | 10800
+watercress | 37g  | 3000 ??
+kimchi | 90g | 9000 
+chickpeas | 75g  | 15000
+roasted red peppers | 45g | 3000
+cherry tomatoes | 45g | 1500
+yogurt dressing | 40g | 7500
 
-
-#### big - 82K
-item | weight | cost (33K)
------------- | ------------- | -------------
-lettuce | 120g | 6K
-pasta | 90g  | 12K ??
-corn | 45g | 6K 
-carrot | 45g | 2K
-kim chi | 90g | 7K   
-
-
-### ???
-
-#### big
-item | weight | cost
------------- | ------------- | -------------
-lettuce | 80g | 4K
-pasta | 60g  | 8K ??
-corn | 30g | 4K 
-carrot | 30g | 1K
-kim chi | 60g | 5K   
