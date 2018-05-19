@@ -49,12 +49,12 @@ cezar dressing | 40g | 9000
 ### Beat it! 
 
 #### small - 70000
-item | weight (320g) | cost (28000)
+item | weight (320g) | cost (37500)
 ------------ | ------------- | -------------
-baby spinach | 120g | 3600
-beat | 80g | 3500 ??
-feta | 80g | 6000 
-walnuts | 15g | 10000 ?? 
+baby spinach | 90g | 5500
+beat | 75g | 3500 
+feta | 20g | 13500
+walnuts/cashew | 20g | 5000 
 honey mustard dressing | 25g | 5000 
 
 #### big - 1150000
