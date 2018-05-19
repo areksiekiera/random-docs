@@ -6,6 +6,25 @@
 
 (penne, kimchi, roasted red peppers, chickpeas, watercress, cherry tomatoes, yogurt dressing)
 
+
+### Chicken cezar 
+**regular (248g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (397g) - 115K**
+
+(lettuce, chicken, bread, parmesan, cezar dressing)
+
+
+### Beat it!
+**regular (230g) - 80K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (370g) - 120K**
+
+(lettuce, chicken, bread, parmesan, cezar dressing)
+
+
+### South tofu
+**regular (375g) - 70K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (585g) - 105K**
+
+(lettuce, marinated tofu, roasted red peppers, white beans, cherry tomatoes, sweet corn, red onion, coriander / lime dressing)
+
+
 ### Kim Chi 
 
 #### small - 420g - 75000
@@ -64,7 +83,7 @@ sunflower | 20g | 5000
 honey mustard dressing | 25g | 5000 
 
 #### big - 1200000
-item | weight (505g) | cost (50500 \* 250% ~ 126250)
+item | weight (370g) | cost (50500 \* 250% ~ 126250)
 ------------ | ------------- | -------------
 baby spinach | 150g | 9000
 beat | 120g | 5000
