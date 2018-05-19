@@ -1,6 +1,12 @@
 ## Pre defined salads
 
 
+### South tofu
+**regular (375g) - 70K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (585g) - 105K**
+
+(lettuce, marinated tofu, roasted red peppers, white beans, cherry tomatoes, sweet corn, red onion, coriander / lime dressing)
+
+
 ### Kim chi
 **regular (420g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (630g) - 115K**
 
@@ -18,11 +24,6 @@
 
 (lettuce, chicken, bread, parmesan, cezar dressing)
 
-
-### South tofu
-**regular (375g) - 70K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (585g) - 105K**
-
-(lettuce, marinated tofu, roasted red peppers, white beans, cherry tomatoes, sweet corn, red onion, coriander / lime dressing)
 
 
 ### Kim Chi 
