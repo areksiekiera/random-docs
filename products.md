@@ -6,7 +6,7 @@ item | weight | cost | shop
 Almonds | 1kg | 340000 | nuts people
 Apple | 1kg | 40000 | koto woman
 Avocado | 1kg | 95000 | koto woman
-Baby spinach | 1kg | 30000 | koto woman
+Baby spinach | 1kg (0.5kg after cleaning) | 30000 | koto woman
 Balsamic vinegar | 1L | 150000 | koto woman
 Beetroot | 1kg | 35000 | koto woman
 Big Dijon mustard  |  | 95000 | koto woman
