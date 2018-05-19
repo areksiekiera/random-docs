@@ -42,7 +42,7 @@ Raisins | 1kg | 900000 | nuts people
 Red beans  | 1kg | 135000 | metro
 Salmon smoked | 1kg | 670000 | metro
 Soy sprouts | 1kg | 14000 | koto woman
-Sunflower |  |  | 
+Sunflower | 1kg | 250000 | nuts 
 Tofu |  |  | 
 Vegan cheese |  |  | 
 Walnuts |  |  | 
