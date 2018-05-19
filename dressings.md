@@ -1,5 +1,25 @@
 ## Dressings 
 
+
+### honey mustard - 76000 cost
+reciept for 300ml 
+- cost 1L =  255000
+- cost 25g = 6375 
+- cost 40g = 10200
+
+item | weight | cost
+------------ | ------------- | -------------
+olive oil | 375ml | 69000
+parsley | 60g | 4000
+lime | 1pc | 2000
+spices | pc | 1000
+
+
+300ml
+
+375 olive 
+parsley 40g
+
 ### honey mustard - 102000 cost
 reciept for 400ml 
 - cost 1L = 255000 VND
