@@ -2,11 +2,9 @@
 
 
 ### Kim chi
-**regular 420g, 75K**
+**regular (420g) - 75K*   \  **large (630g) - 115K**
 
-**large 630g, 115K**
-
-penne, kimchi, roasted red peppers, chickpeas, watercress, cherry tomatoes, yogurt dressing
+(penne, kimchi, roasted red peppers, chickpeas, watercress, cherry tomatoes, yogurt dressing)
 
 ### Kim Chi 
 
