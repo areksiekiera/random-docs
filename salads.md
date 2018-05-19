@@ -33,7 +33,7 @@
 #### Beat it!
 **regular (230g) - 80K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (370g) - 120K**
 
-(lettuce, chicken, bread, parmesan, cezar dressing)
+(baby spinach, beat, feta, sunflower, honey mustard dressing)
 
 
 
@@ -94,6 +94,8 @@ beat | 75g | 3500
 feta | 20g | 13500
 sunflower | 20g | 5000 
 honey mustard dressing | 25g | 5000 
+
+
 
 #### big - 1200000
 item | weight (370g) | cost (50500 \* 250% ~ 126250)
