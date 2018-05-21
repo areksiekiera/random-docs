@@ -8,14 +8,14 @@
 #### South tofu
 **regular (375g) - 70K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (585g) - 105K**
 
-(lettuce, marinated tofu, roasted red peppers, white beans, cherry tomatoes, sweet corn, red onion, coriander / lime dressing)
+(lettuce base, marinated tofu, roasted red peppers, white beans, cherry tomatoes, sweet corn, red onion, coriander / lime dressing)
 
 
 
 #### Kim chi
 **regular (420g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (630g) - 115K**
 
-(penne, kimchi, roasted red peppers, chickpeas, watercress, cherry tomatoes, yogurt dressing)
+(penne base, kimchi, roasted red peppers, chickpeas, watercress, cherry tomatoes, yogurt dressing)
 
 
 
@@ -26,16 +26,19 @@
 #### Chicken cezar 
 **regular (248g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (397g) - 115K**
 
-(lettuce, chicken, bread, parmesan, cezar dressing)
+(lettuce base, chicken, bread, parmesan, cezar dressing)
 
 
 
 #### Beat it!
 **regular (230g) - 80K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (370g) - 120K**
 
-(baby spinach, beat, feta, sunflower, honey mustard dressing)
+(baby spinach base, beat, feta, sunflower, honey mustard dressing)
 
 
+
+
+## Recipes
 
 
 ### Kim Chi 
