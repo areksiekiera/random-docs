@@ -13,7 +13,7 @@
 
 
 #### Kim chi
-**regular (420g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (630g) - 115K**
+**regular (385g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (630g) - 115K**
 
 (penne base, kimchi, roasted red peppers, chickpeas, watercress, cherry tomatoes, yogurt dressing)
 
@@ -43,14 +43,14 @@
 
 ### Kim Chi 
 
-#### small - 420g - 75000
-item | weight (420g) | cost (29500 \* 250% ~ 73750)
+#### small - 385g - 75000
+item | weight (385g) | cost (29700 \* 250% ~ 74250)
 ------------ | ------------- | -------------
-penne | 200g | 7500
-watercress | 25g  | 2000 ??
-kimchi | 60g | 6000 
-chickpeas | 50g  | 7000
-roasted red peppers | 30g | 2000
+penne | 160g | 6000
+watercress | 40g  | 4800 ??
+kimchi | 50g | 5000 
+chickpeas | 40g  | 5500
+roasted red peppers | 40g | 2400
 cherry tomatoes | 30g | 1000
 yogurt dressing | 25g | 5000
 
@@ -74,7 +74,7 @@ item | weight (248g) | cost (28500 \* 250% ~ 71500)
 lettuce | 120g | 5500
 chicken | 80g  | 6500
 bread | 15g | 1500 
-parmesan | 8g  | 10000
+parmesan | 6g  | 10000
 cezar dressing | 25g | 5000
 
 #### big - 110000
