@@ -8,7 +8,7 @@ Apple | 1kg | 40000 | koto woman
 Avocado | 1kg | 95000 | koto woman
 Baby spinach | 1kg (0.5kg after cleaning) | 30000 (60K / kg) | koto woman
 Balsamic vinegar | 1L | 150000 | koto woman
-Beetroot | 1kg | 35000 (40K / kg rosted) | koto woman
+Beetroot | 1kg | 35000 (60K / kg rosted) | koto woman
 Big Dijon mustard  |  | 95000 | koto woman
 Bread crumbs | 80g | 10000 | donkey
 Broccoli  | 1kg | 40000 | koto woman
@@ -18,7 +18,7 @@ Carrots | 1kg | 12000 | koto woman
 Caucus |  |  | 
 Cheakpeas | 1kg | 135000 | metro
 Cherry Tomatoes | 1kg | 28000 | koto woman 
-Chicken breast | 1kg | 65000 | koto woman
+Chicken breast | 1kg | 80000 (100K grilled) | koto woman
 Corn | 1kg | 135000 | metro
 Cucumber | 1kg |  | koto woman
 Egg | 1pc  | 2500 | metro 
@@ -42,9 +42,17 @@ Raisins | 1kg | 900000 | nuts people
 Red beans  | 1kg | 135000 | metro
 Salmon smoked | 1kg | 670000 | metro
 Soy sprouts | 1kg | 14000 | koto woman
-Sunflower | 1kg | 250000 | nuts 
+Sunflower | 1kg | 200000 | nuts 
 Tofu |  |  | 
 Vegan cheese |  |  | 
-Walnuts |  |  | 
+Walnuts | 1kg | 445000 | nuts 
 Watercress | | | |
 White beans | 1kg | 135000 | metro
+
+
+## Dressings
+
+item | weight | cost | shop
+------------ | ------------- | ------------- | -------------
+grain mustard | 1kg | 145000 | koto woman
+Apple | 1kg | 40000 | koto woman
