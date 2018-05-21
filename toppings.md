@@ -1,3 +1,18 @@
+## Bases
+
+**Romaine** &nbsp;&nbsp;&nbsp;&nbsp; **regular (385g) - 75K** &nbsp;&nbsp;&nbsp;&nbsp; \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **large (630g) - 115K**
+
+
+item | weight | cost | cost*2.5 | price
+------------ | ------------- | ------------- | ------------- | -------------  
+Romaine | 120g | 6000 | 15000 | 15000
+Romaine | 180g | 9000 | 22500 | 22000
+Spinach | 120g | 7200 | 18000 | 18000
+Spinach | 180g | 10800 | 27000 | 26000
+Penne | 160g | 6400 | 16000 | 18000 
+Penne | 240g | 9600 | 24000 | 26000
+
+
 ## Toppings
 
 
