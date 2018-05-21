@@ -35,7 +35,7 @@ Olives | 1kg | 185000 | metro
 Onion | 1kg | 30000 | koto woman
 Papaya | 1kg | 10000 | koto woman
 Parmesan | 1kg | 1200000 | metro
-Pasta  | 1kg (2.4kg cooked) | 90000 (37500 per kg) | metro
+Pasta  | 1kg (2.4kg cooked) | 90000 (~40000 per kg) | metro
 Peanuts |  |  | 
 Pickles | 1kg | 55000 | metro
 Raisins | 1kg | 900000 | nuts people
