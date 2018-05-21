@@ -8,6 +8,8 @@ Spinach | 18K (120g) | 26K (180g)
 Penne | 18K (160g) | 26K (240g)
 
 
+detailed breakdown:
+
 item | weight | cost | cost*2.5 | price
 ------------ | ------------- | ------------- | ------------- | -------------  
 Romaine | 120g | 6000 | 15000 | 15000
