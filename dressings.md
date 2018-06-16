@@ -1,54 +1,68 @@
 ## Dressings 
 
 
-### honey mustard - 76000 cost
-reciept for 300ml 
-- cost 1L =  255000
-- cost 25g = 6375 
-- cost 40g = 10200
-
-item | weight | cost
------------- | ------------- | -------------
-olive oil | 375ml | 69000
-parsley | 60g | 4000
-lime | 1pc | 2000
-spices | pc | 1000
-
-
-300ml
-
-375 olive 
-parsley 40g
-
-### honey mustard - 102000 cost
+### honey mustard - 407K (2700 ml)
 reciept for 400ml 
-- cost 1L = 255000 VND
-- cost 25g = 6375 
-- cost 40g = 10200
+- cost 1L = 150K VND
+- cost 25g = 3.7K 
+- cost 40g = 6K
 
 item | weight | cost
 ------------ | ------------- | -------------
-olive oil | 125ml | 23000
-mustard | 67ml | 13000
-mustard grain | 67ml | 20000
-greek yogurt | 250ml | 20000
-honey | 90ml | 15000
-lime | 2pc | 3000
-apple vinegar | 60ml | 7000
-spices | pc | 1000
-
-
-### cherry tomato - 97000 cost (10100 with parmesan)
-reciept for 450ml 
-- cost 1L = 225000 VND
-- cost 25g = 5625 
-- cost 40g = 9000
-
-item | weight | cost
------------- | ------------- | -------------
-cherry tomato | 300g | 9000
-olive oil | 375ml | 69000
-apple vinegar | 125ml | 14000
-garlic | 3 cls | 1000
+olive oil | 500ml | 90000
+mustard | 265ml | 55000
+mustard grain | 265ml | 80000
+greek yogurt | 1000ml | 80000
+honey | 360ml | 60000
+lime | 8pc | 12000
+apple vinegar | 240ml | 28000
 spices | pc | 2000
-parmesan ** | 8g | 4000 
+
+
+### French-Vinaigrette  215K (1000 ml ??)
+
+reciept for 1000ml ?? 
+- cost 1L = 215K VND
+- cost 25g = 5.3K VND 
+- cost 40g = 8.6 VND
+
+item | weight | cost
+------------ | ------------- | -------------
+shallots | 1 cup (?? ml) | 8000 (??)
+red or white wine vinegar | 1 cup (240 ml) | 70000
+dijon mustard | 16 tsp (240ml - 1 cup ??) | 50000
+olive oil | 2 cup (480ml) | 85000
+black peper | 2tsp | 1000 
+salt | 2tsp | 1000 
+
+
+### Cherry-Tomato - 123K (1500ml ??)
+reciept for 1500ml ??
+- cost 1L = 80K VND
+- cost 25g = 2K VND
+- cost 40g = 3.7K VND
+
+item | weight | cost
+------------ | ------------- | -------------
+cherry tomato | 8 cups (1200g ~ 1100 ml ??) | 32000
+olive oil | 2 cups (480ml) | 85000
+garlic | 8 cls | 3000
+sweet paprika | 4tsp | 3000
+
+
+### Caesar - 256K (930 ml)
+reciept for 930ml 
+- cost 1L = 270K VND
+- cost 25g = 6.75K VND 
+- cost 40g = 10.8 VND
+
+item | weight | cost
+------------ | ------------- | -------------
+worcestershire sauce | 3tsp (45ml) | 10000 (??)
+mustard | 3tsp (45ml) | 9000
+lime | 4 | 6000
+garlic (pressed) | 4 | 2000
+black peper | 2tsp | 1000 
+mayo | 1 cup (240ml) | 23000 (??)
+olive oil | 2 cup (480ml) | 85000
+parmesan | 1 cup (100g) | 120000 (??) 
