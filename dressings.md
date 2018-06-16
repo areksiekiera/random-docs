@@ -1,27 +1,26 @@
 ## Dressings 
 
 
-### honey mustard - 407K (2700 ml)
-reciept for 400ml 
+### Honey-Mustard - 204K (1350 ml)
+
 - cost 1L = 150K VND
 - cost 25g = 3.7K 
 - cost 40g = 6K
 
 item | weight | cost
 ------------ | ------------- | -------------
-olive oil | 500ml | 90000
-mustard | 265ml | 55000
-mustard grain | 265ml | 80000
-greek yogurt | 1000ml | 80000
-honey | 360ml | 60000
-lime | 8pc | 12000
-apple vinegar | 240ml | 28000
+olive oil | 250ml | 45000
+mustard | 138ml | 27000
+mustard grain | 138ml | 40000
+greek yogurt | 500ml | 40000
+honey | 180ml | 30000
+lime | 4pc | 6000
+apple vinegar | 120ml | 14000
 spices | pc | 2000
 
 
 ### French-Vinaigrette  215K (1000 ml ??)
 
-reciept for 1000ml ?? 
 - cost 1L = 215K VND
 - cost 25g = 5.3K VND 
 - cost 40g = 8.6 VND
@@ -37,7 +36,7 @@ salt | 2tsp | 1000
 
 
 ### Cherry-Tomato - 123K (1500ml ??)
-reciept for 1500ml ??
+
 - cost 1L = 80K VND
 - cost 25g = 2K VND
 - cost 40g = 3.7K VND
@@ -51,7 +50,7 @@ sweet paprika | 4tsp | 3000
 
 
 ### Caesar - 256K (930 ml)
-reciept for 930ml 
+
 - cost 1L = 270K VND
 - cost 25g = 6.75K VND 
 - cost 40g = 10.8 VND
