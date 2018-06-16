@@ -49,15 +49,15 @@ garlic | 8 cls | 3000
 sweet paprika | 4tsp | 3000
 
 
-### Caesar - 256K (930 ml)
+### Caesar - 248K (930 ml)
 
-- cost 1L = 270K VND
-- cost 25g = 6.75K VND 
-- cost 40g = 10.8 VND
+- cost 1L = 262K VND
+- cost 25g = 6.55K VND 
+- cost 40g = 10.5 VND
 
 item | weight | cost
 ------------ | ------------- | -------------
-worcestershire sauce | 3tsp (45ml) | 10000 (??)
+fish sauce | 3tsp (45ml) | 2000 (??)
 mustard | 3tsp (45ml) | 9000
 lime | 4 | 6000
 garlic (pressed) | 4 | 2000
