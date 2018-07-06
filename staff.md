@@ -4,11 +4,9 @@ bar staff salary **25K/h** * **7h** = **175K/day** * **22days** = **3850K/month/
 kitchen staff salary **30K/h** * **5h** = **150K/day** * **22days** = **3300K/month/person**
 
 ##### Salaries budget
-2 staff + 1 cheff = 11000K/month
-
-3 staff + 1 cheff = 14850K/month
-
-4 staff + 1 cheff = 18700K/month
+- 2 staff + 1 cheff = 11000K/month
+- 3 staff + 1 cheff = 14850K/month
+- 4 staff + 1 cheff = 18700K/month
 
 ### Bonuses
 
@@ -16,9 +14,9 @@ avarage revenue **2000K/day** * **2%** = **40K/day** * 22 **days** = **880K/mont
 avarage revenue **5000K/day** * **2%** = **100K/day** * 22 **days** = **2200K/month/person**
 
 ##### Bonuses  budget
-2 staff + 1 cheff = 2640K/month ~ 6600K/month
-3 staff + 1 cheff = 3520K/month ~ 8800K/month
-4 staff + 1 cheff = 4320K/month ~ 11000K/month
+- 2 staff + 1 cheff = 2640K/month ~ 6600K/month
+- 3 staff + 1 cheff = 3520K/month ~ 8800K/month
+- 4 staff + 1 cheff = 4320K/month ~ 11000K/month
 
 
 * avarage salad price = **80K**
