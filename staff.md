@@ -21,8 +21,8 @@ avarage revenue **5000K/day** * **2%** = **100K/day** * 22 **days** = **2200K/mo
 
 ### Scenarios
 
-* avarage salad price = **80K**<br />
-** cost = **50%**<br />
+~avarage salad price = **80K**<br />
+~avarage cost = **50%**<br />
 
 scenario 1 (2 bar staff + 1 chef => **20 salads** a day):
 > avarage **20salads/day** * **80K** = **1600K/day** * **22days** = **35200K/month** revenue - **50%** costs = **17600K/month** income 
