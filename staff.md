@@ -5,7 +5,9 @@ kitchen staff salary **30K/h** * **5h** = **150K/day** * **22days** = **3300K/mo
 
 ##### Salaries budget
 2 staff + 1 cheff = 11000K/month
+
 3 staff + 1 cheff = 14850K/month
+
 4 staff + 1 cheff = 18700K/month
 
 ### Bonuses
